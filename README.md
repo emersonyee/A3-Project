@@ -7,4 +7,6 @@ Project is created with:
 * Python
 	
 ## Launch
-To run this project, install it locally using npm:
+To run this project, the following needs to be installed:
+* Processing version 4.01
+* Python mode for Processing
