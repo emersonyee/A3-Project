@@ -10,4 +10,4 @@ Project is created with:
 To run this project, the following needs to be installed:
 * Processing version 4.0.1
 * Python mode for Processing
-Then, after making sure that Processing is running in Python mode, copy and paste the code and press the 'run' button
+######Then, after making sure that Processing is running in Python mode, copy and paste the code and press the 'run' button
